@@ -16,3 +16,7 @@ body{
     margin-bottom: 50px;         
     padding: 20px;
 }
+.alerta{
+    color: red;
+    font-size:medium;
+}
